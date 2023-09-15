@@ -1,0 +1,3 @@
+# Parametric Modeling for Wine Quality Prediction
+<hr>
+This notebook contains an ML project of mine wherein I ran four different models (linear, multilinear, nonlinear, and KNN) against a dataset of wines containing data regarding their acidity, residual sugars, and ph (among other metrics) to predict their quality ratings. The results are shown within the notebook, and the dataset I used is included within this directory.
